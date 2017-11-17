@@ -1,0 +1,4 @@
+#Wed Nov 15 19:07:06 PST 2017
+base.0=C\:\\Users\\E.elichu\\Desktop\\courses\\3717\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\Users\\E.elichu\\Desktop\\courses\\3717\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
